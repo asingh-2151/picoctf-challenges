@@ -21,7 +21,7 @@ Enter the folder <i>.secret</i> to find
 Enter the folder <i>deeper_secrets</i> to find
 <pre>deepest_secrets</pre>
 Enter the folder <i>deepest_secrets</i> to find
-<pre>uber_secret.txt</i>
+<pre>uber_secret.txt</i></pre>
 With this, we obtain the flag
 <pre>picoCTF{f1nd_15_f457_ab443fd1}</pre>
 Type in the flag and you are done.
