@@ -1,4 +1,4 @@
-<h1>First Find</h1>
+<h1>Big Zip</h1>
 Problem link - <a href="https://play.picoctf.org/practice/challenge/322">click here</a>
 <h2>Overview</h2>
 <b>Points</b> - 100<br>
