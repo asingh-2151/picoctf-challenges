@@ -45,4 +45,4 @@ To obtain the second and the final part of the flag i.e.
 <pre>0ut_0f_\/\/4t3r_</pre>
 With this, we obtain the flag
 <pre>picoCTF{xxsh_0ut_0f_\/\/4t3r_5190b070}</pre>
-Type in the falg and you're done.
+Type in the flag and you're done.
