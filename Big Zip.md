@@ -5,6 +5,7 @@ Problem link - <a href="https://play.picoctf.org/practice/challenge/322">click h
 <b>Skills tested</b> - General skills(Unzipping archives,Shell/command line)
 <h2>Problem</h2>
 Unzip <a href="https://artifacts.picoctf.net/c/554/big-zip-files.zip">this</a> archive and find the flag.
+<h2>Approach</h2>
 Download the <i>.zip</i> file from the link given  <a href="https://artifacts.picoctf.net/c/554/files.zip">here</a>.<br>
 Extract the unzipped version of the archive which will be stored in your system under the name <i>big-zip-files</i>.<br>
 On entering the folder, you will find
