@@ -2,7 +2,7 @@
 Problem link - <a href="https://play.picoctf.org/practice/challenge/37">click here</a>
 <h2>Overview</h2>
 <b>Points</b> - 100<br>
-<b>Skills tested</b> - General skills(Hexadecimal to decimal conversion)
+<b>Skills tested</b> - General skills(Shell commands)
 <h2>Problem</h2>
 Can you find the flag in the <a href="https://jupiter.challenges.picoctf.org/static/5bd86036f013ac3b9c958499adf3e2e2/strings">file</a> without running it?
 <h2>Approach</h2>
