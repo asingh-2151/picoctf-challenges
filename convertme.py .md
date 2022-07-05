@@ -33,7 +33,7 @@ except ValueError:
 </pre>
 You can either run this on an IDE or on the webshell <a href="https://webshell.picoctf.org/">provided by PicoCTF</a><br>
 On running the program, you will see this on the screen
-<pre>If X is in decimal, what is it in binary ?
+<pre>If X is in decimal base, what is it in binary base ?
 Answer:</pre>
 where X can be any random (mostly 2-digit) number.<br>
 You can either use a <a href="https://www.rapidtables.com/convert/number/decimal-to-binary.html">decimal-to-binary conversion calculator</a> or solve this by hand.<br>
