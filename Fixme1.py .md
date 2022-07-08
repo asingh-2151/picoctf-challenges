@@ -32,5 +32,6 @@ You can either run this on an IDE or on the webshell <a href="https://webshell.p
 As you may observe, the error is in the last line where the <i>print</i> statement hasn't been indented properly.<br>
 After indenting it and running the program, you will see this on the screen
 <pre>That is correct! Here's your flag: picoCTF{1nd3nt1ty_cr1515_09ee727a}</pre>
+From this we obtain the flag as
 <pre>picoCTF{1nd3nt1ty_cr1515_09ee727a}</pre>
 Type in the flag and you're done.
